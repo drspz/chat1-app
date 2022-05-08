@@ -8,7 +8,7 @@
 | email    | string | null: false |           
 | password | string | null: false |    
                 
-## rooms テーブル                     
+## rooms テーブル                       
     
 | Column | Type   | Options     |              
 | ------ | ------ | ----------- |  
