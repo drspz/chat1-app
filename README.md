@@ -14,7 +14,7 @@
 | ------ | ------ | ----------- |                   
 | name  | string | null: false |                
     
-## room_users テーブル      
+## room_users テーブル        
   
 | Column  | Type    | Options                        |  
 | ------- | ------- | ------------------------------ |
