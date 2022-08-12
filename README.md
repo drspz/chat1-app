@@ -12,7 +12,7 @@
           
 | Column | Type   | Options     |                          
 | ------ | ------ | ----------- |                   
-| name  | string | null: false |                
+| name  | string | null: false |                  
     
 ## room_users テーブル        
   
