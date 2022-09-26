@@ -11,7 +11,7 @@
 ## rooms テーブル                                     
           
 | Column | Type   | Options     |                              
-| ------ | ------ | ----------- |                   
+| ------ | ------ | ----------- |                     
 | name  | string | null: false |                  
     
 ## room_users テーブル        
